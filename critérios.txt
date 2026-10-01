@@ -1,0 +1,1 @@
+«Um item só pode ser aceite quando existe stock suficiente para a quantidade pedida.»
