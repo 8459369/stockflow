@@ -1,1 +1,3 @@
 «Um item só pode ser aceite quando existe stock suficiente para a quantidade pedida.»
+
+A encomenda é rejeitada se a quantidade pedida for zero ou negativa.
