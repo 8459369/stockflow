@@ -1,3 +1,5 @@
 «Um item só pode ser aceite quando existe stock suficiente para a quantidade pedida.»
 
 A encomenda é rejeitada se a quantidade pedida for zero ou negativa.
+
+Clarificar como deve ser tratada uma encomenda quando a quantidade pedida é superior ao stock disponível.

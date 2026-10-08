@@ -1,1 +1,2 @@
 «Item rejeitado quando a quantidade pedida é superior ao stock disponível.»
+Modificar em caso de pré-reserva. 
