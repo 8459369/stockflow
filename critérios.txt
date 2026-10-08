@@ -2,4 +2,5 @@
 
 A encomenda é rejeitada se a quantidade pedida for zero ou negativa.
 
-Clarificar como deve ser tratada uma encomenda quando a quantidade pedida é superior ao stock disponível.
+Atividade 5 - 5. Formando B – modificar, preparar e fazer commit
+    Clarificar como deve ser tratada uma encomenda quando a quantidade pedida é superior ao stock disponível.
